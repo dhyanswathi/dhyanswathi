@@ -12,7 +12,7 @@
 
 ### :woman_technologist: About Me :
 - 👋 Hi, I’m Swathi Sidharthan
-- :telescope: I’m a junior Full-stack Dotnet developer from India, currently living in Stockholm, Sweden 🇸🇪.
+- :telescope: I’m a junior Full-stack Dotnet developer from India, currently living in Stockholm, Sweden.
 - 🩺 Previously worked as an ayurvedic doctor & changed careers to follow my passion for web development.
 
 - 👀 I’m interested in contributing to frontend and backend for building web applications.
