@@ -44,3 +44,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub"alt="Github" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhyanswathi&theme=light&background=######)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhyanswathi&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+
