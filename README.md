@@ -18,6 +18,7 @@
 - 👀 I’m interested in contributing to frontend and backend for building web applications.
 - 🌱 I’m currently exploring Typescript.
 - 📫 Connect to me @ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/swathi-sidharthan)
+- Portfolio: "https://swathi-sidharthan.netlify.app/"
 
 ---
 
