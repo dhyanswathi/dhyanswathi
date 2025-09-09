@@ -12,11 +12,11 @@
 
 ### :woman_technologist: About Me :
 - 👋 Hi, I’m Swathi Sidharthan
-- :telescope: I’m a junior Full-stack Dotnet developer from India, currently living in Stockholm, Sweden.
+- :telescope: I’m a Full-stack Dotnet developer working at Scania, currently living in Stockholm, Sweden.
 - 🩺 Previously worked as an ayurvedic doctor & changed careers to follow my passion for web development.
 
 - 👀 I’m interested in contributing to frontend and backend for building web applications.
-- 🌱 I’m currently exploring Typescript.
+- 🌱 I’m currently exploring Cloud-native development.
 - 📫 Connect to me @ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/swathi-sidharthan)
 - Portfolio: "https://swathi-sidharthan.netlify.app/"
 
@@ -25,6 +25,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="csharp" width="40" height="40"/>&nbsp;
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg](https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg)" title="AWS" alt="aws" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".netCore" alt=".netcore" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
